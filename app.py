@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'ㅎㅇ요!'
+    return 'AWS Jenkins ArgoCD 파이프 라인 구성 웹페이지'
